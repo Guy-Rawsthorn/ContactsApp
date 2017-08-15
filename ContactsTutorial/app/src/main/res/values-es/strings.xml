@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        <string name="app_name">Contactos</string>
+        <string name="CreateContact">Crear un nuevo contacto</string>
+        <string name="fName">Nombre de pila</string>
+        <string name="Surname">Apellido</string>
+        <string name="number">Número</string>
+        <string name="email">Email</string>
+        <string name="Save">Salvar</string>
+        <string name="add">Añadir</string>
+        <string name="list">Lista</string>
+    </resources>
